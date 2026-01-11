@@ -1,0 +1,8 @@
+{
+  "silhouette": 0.9149110317230225,
+  "calinski_harabasz": 28387.685546875,
+  "davies_bouldin": 0.12020873637959413,
+  "ari": 1.0,
+  "nmi": 1.0,
+  "purity": 1.0
+}
