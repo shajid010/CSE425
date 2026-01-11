@@ -21,12 +21,12 @@ Run PCA + K-Means for comparison.
 python -m src.baseline --n_components 10 --n_clusters 5
 ```
 
-### 3. Convolutional VAE (Spectrograms) [Coming Soon]
+### 3. Convolutional VAE (Spectrograms) 
 ```bash
 python -m src.main --mode train --model_type conv --epochs 50
 ```
 
-### 4. Hybrid VAE (Audio + Lyrics) [Coming Soon]
+### 4. Hybrid VAE (Audio + Lyrics) 
 ```bash
 python -m src.main --mode train --model_type hybrid --epochs 50
 ```
